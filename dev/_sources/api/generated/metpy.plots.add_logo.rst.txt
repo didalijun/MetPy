@@ -1,0 +1,12 @@
+add_logo
+====================
+
+.. currentmodule:: metpy.plots
+
+.. autofunction:: add_logo
+
+.. include:: metpy.plots.add_logo.examples
+
+.. raw:: html
+
+      <div style='clear:both'></div>
